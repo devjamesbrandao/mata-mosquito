@@ -7,7 +7,7 @@ var largura = 0;
 var vidas = 1;
 
 // Tempo inicial do jogo
-var tempo = 15;
+var tempo = 10;
 
 // Tempo para renderizar mosquito na tela
 var criaMosquitoTempo = 2000;
@@ -19,13 +19,13 @@ var nivel = window.location.search;
 nivel = nivel.replace('?', '');
 
 // Define o tempo para o mosquito aparecer na tela de acordo com o nivel de dificuldade informado
-if(nivel === 'normal') {
+if(nivel === 'genin') {
 	//1500
 	criaMosquitoTempo = 2000;
-} else if(nivel === 'dificil') {
+} else if(nivel === 'chunin') {
 	//1000
 	criaMosquitoTempo = 1000;
-} else if (nivel === 'saiyajin') {
+} else if (nivel === 'jounin') {
 	//750
 	criaMosquitoTempo = 750;
 }
@@ -71,7 +71,7 @@ function posicaoRandomica() {
 	var posicaoX = Math.floor(Math.random() * largura) - 90;
 	var posicaoY = Math.floor(Math.random() * altura) - 90;
 
-	// Evita que o mosquito saia da
+	// Evita que o mosquito saia da tela
 	posicaoX = posicaoX < 0 ? 0 : posicaoX;
 	posicaoY = posicaoY < 0 ? 0 : posicaoY;
 
