@@ -3,11 +3,11 @@
 <hr/>
 
 <p align="center">
-    <img src="https://github.com/devjamesbrandao/Mata-Mosquito/tree/master/MataMosquito/imagens/Tela-inicial.png" alt="Tela inicial" title="Tela inicial">
+    <img src="https://github.com/devjamesbrandao/Mata-Mosquito/blob/master/MataMosquito/imagens/Tela-inicial.png" alt="Tela inicial" title="Tela inicial">
 </p> 
 
 <p align="center">
-    <img src="https://github.com/devjamesbrandao/Mata-Mosquito/tree/master/MataMosquito/imagens/tela-jogo.png" alt="Tela do jogo" title="Tela do jogo">
+    <img src="https://github.com/devjamesbrandao/Mata-Mosquito/blob/master/MataMosquito/imagens/tela-jogo.png" alt="Tela do jogo" title="Tela do jogo">
 </p> 
 
 
