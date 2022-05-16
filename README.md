@@ -10,6 +10,14 @@
     <img src="https://github.com/devjamesbrandao/Mata-Mosquito/blob/master/MataMosquito/imagens/tela-jogo.png" alt="Tela do jogo" title="Tela do jogo">
 </p> 
 
+<p align="center">
+    <img src="https://github.com/devjamesbrandao/Mata-Mosquito/blob/master/MataMosquito/imagens/tela-vitoria.png" alt="Tela de vitória" title="Tela de vitória">
+</p> 
+
+<p align="center">
+    <img src="https://github.com/devjamesbrandao/Mata-Mosquito/blob/master/MataMosquito/imagens/game-over.png" alt="Tela de Game Over" title="Tela de Game Over">
+</p> 
+
 
 ### ` 🔍 Sobre`
 
